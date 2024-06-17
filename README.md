@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://s3.amazonaws.com/zotero.org/images/settings/group/5546406_200px.png" alt="natur_smart" width="500"/>
+<img src="https://natursmart.org/wp-content/uploads/2024/05/logo_natur_smart.svg" alt="natur_smart" width="500"/>
 </p>
 
 # Tarea A.1.1: repositorio bibliográfico del proyecto
 
 ---
 
-Este repositorio ha sido creado para dar soporte a la tarea A.1.1 DEl proyecto [NATUR-SMART](https://natursmart.org/). En este repositorio se alojarán documentos pdf y contenido adicional para poder acceder a ellos desde el repositorio bibliográfico del proyecto alojado en Zotero.
+Este repositorio ha sido creado para dar soporte a la tarea A.1.1 del proyecto [NATUR-SMART](https://natursmart.org/). En este repositorio se alojarán documentos pdf y contenido adicional para poder acceder a ellos desde el repositorio bibliográfico del proyecto alojado en Zotero.
 
 ---
 
@@ -24,5 +24,5 @@ Este repositorio ha sido creado para dar soporte a la tarea A.1.1 DEl proyecto [
 ---
 
 <p align="center">
-<img src="https://s3.amazonaws.com/zotero.org/images/settings/group/5546406_200px.png" alt="natur_smart" width="500"/>
+<img src="https://natursmart.org/wp-content/uploads/2024/05/logo_natur_smart.svg" alt="natur_smart" width="500"/>
 </p>
