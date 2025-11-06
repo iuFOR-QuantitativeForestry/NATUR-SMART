@@ -18,7 +18,8 @@ Este repositorio ha sido creado para dar soporte a la tarea A.1.1 del proyecto [
 
 ## :scroll: Contenido
 
-* :link: [**20240617_referencias_zotero_natur_smart**](./20240617_referencias_zotero_natur_smart.rdf): documento *.rdf* con las referencias bibliográficas actualizadas a la fecha indicada por el documento
+* :link: [**20251106_referencias_zotero_natur_smart**](./20251106_referencias_zotero_natur_smart.bib.rdf): documentos *.rdf* y *.bib* con las referencias bibliográficas actualizadas a la fecha indicada por el documento
+* :scroll: [**Articulos Socioambientales.xlsx**](./Articulos%20Socioambientales.xlsx): documento con una recopilación de referencias de artículos socioambientales con descripciones de contenidos de interés.
 * :file_folder: [**Zonas piloto**](./Zonas%20piloto/): carpeta con la documentación organizada de cada zona piloto incluida en el proyecto
 
 ---
